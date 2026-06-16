@@ -169,6 +169,7 @@ h2{
     .result{
         width: 100%;
         height: 40%;
+        border-radius: 0 0 1rem 1rem;
     }
     
     .summary{
